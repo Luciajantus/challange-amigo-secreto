@@ -16,3 +16,8 @@ Este proyecto permite agregar nombres de amigos y realizar un sorteo aleatorio p
 
 ⚠️ Validaciones incluidas
 No se permite agregar nombres vacíos.
+
+---
+
+🐞 Posibles mejoras futuras
+Evitar nombres duplicados
