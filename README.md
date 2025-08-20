@@ -4,6 +4,11 @@ Este proyecto permite agregar nombres de amigos y realizar un sorteo aleatorio p
 
 ---
 
+🔗 **Sitio publicado:**  
+[https://luciajantus.github.io/challange-amigo-secreto/](https://luciajantus.github.io/challange-amigo-secreto/)
+
+---
+
 ## 🚀 Funcionalidades
 
 - ✅ Agregar nombres a una lista dinámica
